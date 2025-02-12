@@ -1,0 +1,13 @@
+Mathematic Operation - 10-02-2025 13:14:53- DEBUG- addtion10 + 12 = 22
+Mathematic Operation - 10-02-2025 14:40:49- DEBUG- addtion10 + 12 = 22
+Mathematic Operation - 10-02-2025 14:41:00- DEBUG- addtion0 + 0 = 0
+Mathematic Operation - 10-02-2025 14:41:39- ERROR- addition cannot be possible0 and 0 should be greate than 0
+Mathematic Operation - 10-02-2025 14:42:10- ERROR- addition cannot be possible a, b should be greate than 0
+Mathematic Operation - 10-02-2025 14:43:43- CRITICAL- addtion at critical level when b is greater than 10 ={result}
+Mathematic Operation - 10-02-2025 14:43:43- DEBUG- addtion1 + 11 = 12
+Mathematic Operation - 10-02-2025 14:44:09- CRITICAL- addtion at critical level when b is greater than 10 ={result}
+Mathematic Operation - 10-02-2025 14:45:28- ERROR-  exception when a is less than 0
+NoneType: None
+Mathematic Operation - 10-02-2025 14:45:55- ERROR-  exception when a is less than 0
+NoneType: None
+Mathematic Operation - 10-02-2025 14:46:38- INFO-  exception when a is less than 0
